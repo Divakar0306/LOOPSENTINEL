@@ -1,0 +1,7 @@
+# LoopSentinel Requirements
+# Zero mandatory external dependencies for core package and test suite
+# Optional tools for visual generation and enhanced testing:
+matplotlib>=3.8.0
+pillow>=10.0.0
+reportlab>=4.0.0
+pytest>=8.0.0
